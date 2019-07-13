@@ -1,2 +1,0 @@
-linkerd Content
-Deemo Data
